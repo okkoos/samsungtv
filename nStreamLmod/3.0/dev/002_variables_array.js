@@ -1,6 +1,4 @@
-var _0x8d61 = [
-	"pluginObjectStorage",		// 0
-	"pluginObjectFileSystem",	// 1
+var _0x8d61 = ["pluginObjectStorage", /* 0 */ "pluginObjectFileSystem",	// 1
 	"pluginObjectTime",			// 2
 	"",
 	"0",
